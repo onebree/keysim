@@ -1,18 +1,18 @@
 {
   "id": "hammerhead",
   "label": "Hammerhead",
-  "manufacturer": "",
+  "manufacturer": "Keylabs",
   "swatches": {
     "base": {
-      "background": "#1f2a44",
-      "color": "#49c5b1"
+      "background": "#202A44",
+      "color": "#49C5B1"
     },
     "mods": {
       "background": "#384967",
-      "color": "#49c5b1"
+      "color": "#49C5B1"
     },
     "accent": {
-      "background": "#49c5b1",
+      "background": "#49C5B1",
       "color": "#384967"
     }
   },
